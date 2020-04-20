@@ -8,14 +8,14 @@ permalink: /blog/2018-09-09-post-howto
 
 - Write your post in markdown format. Here are [links](https://guides.github.com/features/mastering-markdown/) to [markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) [guides](https://www.markdowntutorial.com/) for help with formatting
 - Start with "front matter" This is what tells github that your document becomes a post and what title it is, where the link should go, and what tags you are going to use. You always need to say the layout is a post, and that the permalink is /blog/ and followed by the name of the post md file:  
-` ---  `   
+`--- `   
 `layout: post`  
 `title: Title of Post`  
 `permalink: /blog/2019-09-09-post-name`  
 `tags:`   
 `- tag1`  
 `- tag2`  
-`--- `
+`---`
 - All of the md files have to be named with the correct convention: YYYY-MM-DD-Name-of-file.md
 - Write the md file using the above links with any information you want to provide
 - To use an image, copy this code and just change the name of the image. _NOTE: image names CANNOT have spaces in them_  
@@ -30,7 +30,7 @@ permalink: /blog/2018-09-09-post-howto
 
 - Then in that branch go to the posts folder
 
-![9]({{ site.baseurl}}/images/nineth.png) 
+![9]({{ site.baseurl}}/images/nineth.png)
 
 - Then click to add a new file
 
