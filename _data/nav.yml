@@ -8,10 +8,7 @@
   href: "/tags/"
 
 - title: "Sampling"
-  subcategories:
-    - subtitle: "2019"
-      subhref: "/Sampling/2019"
-      subhref: "/Sampling/2020"
+  href: "/sampling"
 
 - title: "Primers"
   href: "/primers"
