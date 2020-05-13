@@ -18,5 +18,7 @@ Chordata-TA:
   name: Chordata-TA
 Ceph_16S:
   name: Ceph_16S
-16S FD-2Rdeg:
-  name: 16S FD-2Rdeg
+16S_FD-2Rdeg:
+  name: 16S_FD-2Rdeg
+18S_1F-400R:
+  name: 18S_1F-400R
